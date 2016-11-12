@@ -1,0 +1,46 @@
+
+			body {
+				background-color:#DCDCDC;
+				font-family:Verdana; 
+				text-align: center;
+			}
+
+
+			h1, h2, h3, {
+				color:blue;
+			}
+
+			ul {
+				list-style-type: none;
+			}
+
+			p {
+				font-size: 75%;
+
+			}
+
+			.titles {
+				font-size: 120%;
+				
+			}
+
+			.images {
+				
+   				 background-color: lightgrey;
+
+    			/*width: 300px;*/
+    			border: 25px black;
+   				padding: 25px;
+    			margin: 10px;
+				}
+
+			.projects {
+				color:white;
+				text-align:center;
+				background-color: #696969;
+				border :25px #696969;
+				padding: 25 px;
+				margin: 10px;
+				
+
+			}
